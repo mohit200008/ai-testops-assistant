@@ -58,14 +58,7 @@ The prototype generates comprehensive test cases covering:
    - Priority: Medium
    - Category: Compliance
 
-## 🎨 Design Features
 
-- **Primary Color**: Blue (#0000FF) as specified
-- **Modern Cards**: Rounded corners with soft shadows and hover effects
-- **Compliance Tags**: Color-coded badges for different standards
-- **Responsive**: Works on desktop and mobile
-- **Professional**: Healthcare-appropriate styling with accessibility considerations
-- **Interactive**: Smooth animations and transitions
 
 ## 🚀 Future Scope & Roadmap
 
